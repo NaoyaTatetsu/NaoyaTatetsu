@@ -56,5 +56,3 @@
 
 - Twitter: https://twitter.com/tttnaobi
 - LinkedIn: https://www.linkedin.com/in/naoya-tatetsu-204279274/
-
-![github-contribution-grid-snake](https://raw.githubusercontent.com/NaoyaTatetsu/NaoyaTatetsu/master/img/snake.svg)
