@@ -6,7 +6,7 @@
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaTatetsu&layout=compact&theme=tokyonight&hide=HTML,CSS,SCSS,Jupyter+Notebook)
 
-##  Languages
+##  Languages and Tools
 
 <p align="left>
 
