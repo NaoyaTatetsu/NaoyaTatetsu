@@ -54,7 +54,7 @@
 
 <p align="left>
   <a href="https://twitter.com/tttnaobi">
-    <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />
+    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />
   </a>
   <a href="https://www.linkedin.com/in/naoya-tatetsu-204279274/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" />
