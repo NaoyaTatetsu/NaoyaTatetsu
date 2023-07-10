@@ -11,9 +11,6 @@
 <p align="left>
 
 <img
-      src=""
-      alt="" width="40" height="40" />
-<img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript" width="40" height="40" />
 <img
@@ -49,10 +46,19 @@
 <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb" width="40" height="40" />
-
 </p>
 
 ## 📨 Contact with me
+<p align="left>
 
-- Twitter: https://twitter.com/tttnaobi
-- LinkedIn: https://www.linkedin.com/in/naoya-tatetsu-204279274/
+<a href="https://twitter.com/tttnaobi">
+      <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
+            alt="twitter" width="40" height="40" />
+</a>
+<a href="https://www.linkedin.com/in/naoya-tatetsu-204279274/">
+      <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+            alt="" width="40" height="40" />
+</a>
+</p>
