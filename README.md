@@ -53,9 +53,7 @@
 ## 📨 Contact with me
 
 <p align="left>
-  <a href="">
     <img src="" />
-  </a>
   <a href="https://twitter.com/tttnaobi">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40" height="40" />
   </a>
