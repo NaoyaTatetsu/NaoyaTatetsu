@@ -49,16 +49,12 @@
 </p>
 
 ## 📨 Contact with me
-<p align="left>
 
-<a href="https://twitter.com/tttnaobi">
-      <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
-            alt="twitter" width="40" height="40" />
-</a>
-<a href="https://www.linkedin.com/in/naoya-tatetsu-204279274/">
-      <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-            alt="" width="40" height="40" />
-</a>
+<p align="left>
+  <a href="https://twitter.com/tttnaobi">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/naoya-tatetsu-204279274/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+  </a>
 </p>
