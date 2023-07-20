@@ -3,19 +3,14 @@
 ### 📉 Github stats:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NaoyaTatetsu&show_icons=true&&theme=tokyonight">
-  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=NaoyaTatetsu&show_icons=true&&theme=city_light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NaoyaTatetsu&show_icons=true&theme=tokyonight">
+  <img alt="Shows NaoyaTatetsu's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=NaoyaTatetsu&show_icons=true&theme=city_light">
 </picture>
 
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaoyaTatetsu&show_icons=true&theme=tokyonight#gh-dark-mode-only)
-
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaTatetsu&layout=compact&theme=tokyonight&hide=HTML,CSS,SCSS,Jupyter+Notebook#gh-dark-mode-only)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaoyaTatetsu&show_icons=true&theme=city_light#gh-light-mode-only)
-
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaTatetsu&layout=compact&theme=city_light&hide=HTML,CSS,SCSS,Jupyter+Notebook#gh-light-mode-only) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaTatetsu&layout=compact&theme=tokyonight&hide=HTML,CSS,SCSS,Jupyter+Notebook">
+  <img alt="Shows NaoyaTatetsu's GitHub Stats." src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaTatetsu&layout=compact&theme=city_light&hide=HTML,CSS,SCSS,Jupyter+Notebook">
+</picture>
 
 ### 💻 Languages and Tools:
 
