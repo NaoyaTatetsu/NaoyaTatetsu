@@ -3,13 +3,13 @@
 ### 📉 Github stats:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NaoyaTatetsu&show_icons=true&theme=tokyonight&hide=HTML,CSS,SCSS,Jupyter+Notebook">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NaoyaTatetsu&show_icons=true&theme=tokyonight&hide=HTML,CSS,SCSS,Jupyter+Notebook" width="350" height="200">
   <img alt="Shows NaoyaTatetsu's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=NaoyaTatetsu&show_icons=true&theme=city_light&hide=HTML,CSS,SCSS,Jupyter+Notebook">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaTatetsu&layout=compact&theme=tokyonight&hide=HTML,CSS,SCSS,Jupyter+Notebook" width="300" height="130">
-  <img alt="Shows NaoyaTatetsu's GitHub Stats." src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaTatetsu&layout=compact&theme=city_light&hide=HTML,CSS,SCSS,Jupyter+Notebook" width="300" height="130">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaTatetsu&layout=compact&theme=tokyonight&hide=HTML,CSS,SCSS,Jupyter+Notebook">
+  <img alt="Shows NaoyaTatetsu's GitHub Stats." src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaTatetsu&layout=compact&theme=city_light&hide=HTML,CSS,SCSS,Jupyter+Notebook">
 </picture>
 
 ### 💻 Languages and Tools:
