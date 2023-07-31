@@ -3,8 +3,8 @@
 ### 📉 Github stats:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NaoyaTatetsu&show_icons=true&theme=tokyonight" width="400" height="170">
-  <img alt="Shows NaoyaTatetsu's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=NaoyaTatetsu&show_icons=true&theme=city_light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NaoyaTatetsu&show_icons=true&theme=tokyonight&hide=HTML,CSS,SCSS,Jupyter+Notebook" width="300" height="130">
+  <img alt="Shows NaoyaTatetsu's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=NaoyaTatetsu&show_icons=true&theme=city_light&hide=HTML,CSS,SCSS,Jupyter+Notebook">
 </picture>
 
 <picture>
