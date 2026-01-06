@@ -1,57 +1,44 @@
-## Hi there, I'm Tatetsu 👋
+## Hi there, I'm Bobby 👋
 
-### 📉 Github stats:
+## 📊 **GitHub Analytics**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NaoyaTatetsu&show_icons=true&theme=tokyonight&hide=HTML,CSS,SCSS,Jupyter+Notebook">
-  <img alt="Shows NaoyaTatetsu's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=NaoyaTatetsu&show_icons=true&theme=city_light&hide=HTML,CSS,SCSS,Jupyter+Notebook">
-</picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaoyaTatetsu&custom_title=%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaTatetsu&layout=compact&theme=tokyonight&hide=HTML,CSS,SCSS,Jupyter+Notebook">
-  <img alt="Shows NaoyaTatetsu's GitHub Stats." src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaTatetsu&layout=compact&theme=city_light&hide=HTML,CSS,SCSS,Jupyter+Notebook">
-</picture>
+## 🛠️ **Tech Stack**
 
-### 💻 Languages and Tools:
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
 
-<p align="left>
-<img
-      src=""
-      alt="" />
-<img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript" width="35" height="35" />
-<img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="35" height="35" />
-<img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="35" height="35" />
-<img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
-      alt="nextjs" width="40" height="40" />
-<img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python" width="40" height="40" />
-<img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg"
-      alt="fastapi" width="40" height="40" />
-<img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg"
-      alt="flask" width="40" height="40" />
-<img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-      alt="go" width="40" height="40" />
-<img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker" width="40" height="40" />
-<img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql" width="40" height="40" />
-<img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" />
-<img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb" width="40" height="40" />
-</p>
+### ☁️ **Infrastructure**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,cloudflare,vercel" />
+
+### 💻 **Languages**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,python,go,terraform" />
+
+### 🔧 **Development Tools**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=github,postman,wezterm,docker" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🗄️ **Database**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb,redis" />
+
+### 🧠 **AI**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,cursor,gemini" />
+
+### 🔧 **Other**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=slack,figma,jira,storybook" />
+
+</td>
+</tr>
+</table>
