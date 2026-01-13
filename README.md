@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&textBg=false&descAlign=75&descAlignY=16&reversal=true)
+![header](https://capsule-render.vercel.app/api?type=waving&height=70&color=gradient&textBg=false&descAlign=75&descAlignY=16&reversal=true)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Bobby+%F0%9F%91%8B;Backend+Engineer+%F0%9F%92%BB" alt="Typing SVG" />
@@ -47,4 +47,4 @@
 </tr>
 </table>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=100&color=gradient&textBg=false&descAlign=75&descAlignY=16&reversal=true)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=70&color=gradient&textBg=false&descAlign=75&descAlignY=16&reversal=true)
