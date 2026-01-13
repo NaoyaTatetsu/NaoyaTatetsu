@@ -46,3 +46,5 @@
 </td>
 </tr>
 </table>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=100&color=gradient&textBg=false&descAlign=75&descAlignY=16&reversal=true)
