@@ -1,20 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&textBg=false&descAlign=75&descAlignY=16&reversal=true)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Bobby+%F0%9F%91%8B;Backend+Engineer+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Bobby+%F0%9F%91%8B;Backend+Engineer+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaoyaTatetsu&custom_title=%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaoyaTatetsu&custom_title=%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&height=300" />
 </div>
 
 ## 🛠️ **Tech Stack**
 
 <table align="center">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="30%" align="center" valign="top">
 
 ### ☁️ **Infrastructure**
 
