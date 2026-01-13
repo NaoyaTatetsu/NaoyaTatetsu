@@ -14,7 +14,7 @@
 
 <table align="center">
 <tr>
-<td width="30%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### ☁️ **Infrastructure**
 
