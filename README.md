@@ -5,10 +5,20 @@
 </div>
 
 ## 📊 **GitHub Analytics**
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaoyaTatetsu&custom_title=%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&height=300" />
-</div>
+![NaoyaTatetsu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaTatetsu&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+</td>
+<td width="50%" align="center" valign="top">
+
+![NaoyaTatetsu's Stats](https://github-readme-stats.vercel.app/api?username=NaoyaTatetsu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ **Tech Stack**
 
