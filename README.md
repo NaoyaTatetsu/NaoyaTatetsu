@@ -9,12 +9,12 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-![NaoyaTatetsu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaoyaTatetsu&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NaoyaTatetsu&layout=compact&theme=tokyonight&how_icons=true&hide_border=true)
 
 </td>
 <td width="50%" align="center" valign="top">
 
-![NaoyaTatetsu's Stats](https://github-readme-stats.vercel.app/api?username=NaoyaTatetsu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NaoyaTatetsu&layout=compact&theme=tokyonight&how_icons=true&hide_border=true)
 
 </td>
 </tr>
