@@ -5,14 +5,14 @@
 </div>
 
 ## 📊 **GitHub Analytics**
-<table align="center">
+<table align="center" style="border: none; border-collapse: collapse;">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="border: none;">
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NaoyaTatetsu&layout=compact&theme=tokyonight&how_icons=true&hide_border=true)
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="border: none;">
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NaoyaTatetsu&layout=compact&theme=tokyonight&how_icons=true&hide_border=true)
 
@@ -22,9 +22,9 @@
 
 ## 🛠️ **Tech Stack**
 
-<table align="center">
+<table align="center" style="border: none; border-collapse: collapse;">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="border: none;">
 
 ### ☁️ **Infrastructure**
 
@@ -39,7 +39,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=github,postman,wezterm,docker" />
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="border: none;">
 
 ### 🗄️ **Database**
 
