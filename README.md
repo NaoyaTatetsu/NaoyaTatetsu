@@ -5,44 +5,56 @@
 </div>
 
 ## 📊 **GitHub Analytics**
-<div align="center">
-  <div style="display: inline-block; width: 49%; vertical-align: top;">
-    ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NaoyaTatetsu&layout=compact&theme=tokyonight&how_icons=true&hide_border=true)
-  </div>
-  <div style="display: inline-block; width: 49%; vertical-align: top;">
-    ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NaoyaTatetsu&layout=compact&theme=tokyonight&how_icons=true&hide_border=true)
-  </div>
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="50%" align="center" valign="top">
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NaoyaTatetsu&layout=compact&theme=tokyonight&how_icons=true&hide_border=true)
+
+</td>
+<td width="50%" align="center" valign="top">
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NaoyaTatetsu&layout=compact&theme=tokyonight&how_icons=true&hide_border=true)
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ **Tech Stack**
 
-<div align="center">
-  <div style="display: inline-block; width: 49%; vertical-align: top; text-align: center;">
-    ### ☁️ **Infrastructure**
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="50%" align="center" valign="top">
 
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,cloudflare,vercel" />
+### ☁️ **Infrastructure**
 
-    ### 💻 **Languages**
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,cloudflare,vercel" />
 
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,python,go,terraform" />
+### 💻 **Languages**
 
-    ### 🔧 **Development Tools**
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,python,go,terraform" />
 
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github,postman,wezterm,docker" />
-  </div>
-  <div style="display: inline-block; width: 49%; vertical-align: top; text-align: center;">
-    ### 🗄️ **Database**
+### 🔧 **Development Tools**
 
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb,redis" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=github,postman,wezterm,docker" />
 
-    ### 🧠 **AI**
+</td>
+<td width="50%" align="center" valign="top">
 
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,cursor,gemini" />
+### 🗄️ **Database**
 
-    ### 🔧 **Other**
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb,redis" />
 
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=slack,figma,jira,storybook" />
-  </div>
-</div>
+### 🧠 **AI**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,cursor,gemini" />
+
+### 🔧 **Other**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=slack,figma,jira,storybook" />
+
+</td>
+</tr>
+</table>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=70&color=gradient&textBg=false&descAlign=75&descAlignY=16&reversal=true)
